@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+font-family: 'Quicksand', sans-serif;
+    background-color: darkred
+}
+.bg-light{background-color: indianred}
